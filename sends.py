@@ -111,4 +111,4 @@ def send_emoji(chat_id, emoji=None):
 # send_document("927181585", "BQACAgIAAxkBAANKZW3bz4mcGMzN8gupN-uVlrBdOOgAArg7AAKQQ3BLcr3vFs2gTuozBA")
 # send_voice("927181585","AwACAgIAAxkBAANMZW3dcQgPQZfXNavE2Xb_I-T8O1gAAsw7AAKQQ3BLOrWaKeOJFfszBA")
 # send_audio("927181585" , "CQACAgIAAxkBAANPZW3zjQeaRmuC8pF4jnNzzo-5lJkAAgM5AAKEc5FJLyRl4IhqbsozBA")
-send_emoji("927181585")
+# send_emoji("927181585")
