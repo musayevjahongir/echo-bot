@@ -85,9 +85,14 @@ while True:
 
             elif "emoji" in last_update["message"].keys():
 
-                emoji=last_update["message"]["emoji"]
+                emoji=last_update["message"]["dice"]["emoji"]
 
                 sends.send_video_note(user["id"], emoji)
 
             last_update_id = last_update['update_id']
     sleep(0.5)
+
+
+
+
+    
